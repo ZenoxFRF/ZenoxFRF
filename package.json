@@ -1,0 +1,20 @@
+{
+  "name": "genvzm",
+  "version": "1.0.0",
+  "description": "Bot Discord Generateur",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aster",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "hhtps://github.com/ZenoxFRF/BotVZM.git"
+  }
+}
